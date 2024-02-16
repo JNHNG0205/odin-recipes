@@ -1,1 +1,1 @@
-The project is to create 3 recipes with ingredients and steps. I have used unordered list, ordered list, imanges,and hyperlink on this project. 
+The project is to create 3 recipes with ingredients and steps. I have used unordered list, ordered list, images,and hyperlink on this project. 
